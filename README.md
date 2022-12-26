@@ -1,2 +1,2 @@
 # vahidamd-solidity
-commit
+committ
